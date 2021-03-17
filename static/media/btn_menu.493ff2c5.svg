@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 40" width="60" height="40">
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #636363 } 
+	</style>
+	<g id="Index1">
+		<g id="menu">
+			<g id="群組 1">
+				<path id="矩形 4" class="shp0" d="M1 0.37L59.62 0.37L59.62 7L1 7L1 0.37ZM1 16.91L59.62 16.91L59.62 23.46L1 23.46L1 16.91ZM1 33.37L37.46 33.37L37.46 40L1 40L1 33.37Z" />
+			</g>
+		</g>
+	</g>
+</svg>

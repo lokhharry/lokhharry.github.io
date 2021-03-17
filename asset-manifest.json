@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "./static/css/main.dbf21f42.chunk.css",
+    "main.js": "./static/js/main.5e828499.chunk.js",
+    "main.js.map": "./static/js/main.5e828499.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.c8fb5071.js",
+    "runtime-main.js.map": "./static/js/runtime-main.c8fb5071.js.map",
+    "static/js/2.9c0cfb5a.chunk.js": "./static/js/2.9c0cfb5a.chunk.js",
+    "static/js/2.9c0cfb5a.chunk.js.map": "./static/js/2.9c0cfb5a.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.dbf21f42.chunk.css.map": "./static/css/main.dbf21f42.chunk.css.map",
+    "static/js/2.9c0cfb5a.chunk.js.LICENSE.txt": "./static/js/2.9c0cfb5a.chunk.js.LICENSE.txt",
+    "static/media/index.module.scss": "./static/media/pc_scene2_bg.5a228e46.jpg",
+    "static/media/btn_menu.svg": "./static/media/btn_menu.493ff2c5.svg",
+    "static/media/hand.svg": "./static/media/hand.bf3fdce6.svg",
+    "static/media/headphone.svg": "./static/media/headphone.b932a01a.svg",
+    "static/media/lincoln.png": "./static/media/lincoln.cfcfec4e.png",
+    "static/media/logo.png": "./static/media/logo.19abb10d.png",
+    "static/media/m_front_object.png": "./static/media/m_front_object.994a63c2.png",
+    "static/media/m_scene2_chatbox.svg": "./static/media/m_scene2_chatbox.9c3fce67.svg",
+    "static/media/m_scene3_chatbox.svg": "./static/media/m_scene3_chatbox.03ebd6df.svg",
+    "static/media/pc_front_object.png": "./static/media/pc_front_object.2627526c.png",
+    "static/media/pc_scene2_chatbox.svg": "./static/media/pc_scene2_chatbox.220fa26a.svg",
+    "static/media/pc_scene3_chatbox.svg": "./static/media/pc_scene3_chatbox.373b1929.svg",
+    "static/media/pc_title.png": "./static/media/pc_title.7f4d4f34.png",
+    "static/media/sponsor.svg": "./static/media/sponsor.83ebbe13.svg",
+    "static/media/time.svg": "./static/media/time.d8665f4a.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c8fb5071.js",
+    "static/js/2.9c0cfb5a.chunk.js",
+    "static/css/main.dbf21f42.chunk.css",
+    "static/js/main.5e828499.chunk.js"
+  ]
+}
