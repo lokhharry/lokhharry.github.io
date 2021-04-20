@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/beyond-bollywood/static/css/main.31e4e424.chunk.css",
+    "main.js": "/beyond-bollywood/static/js/main.3f6c8277.chunk.js",
+    "main.js.map": "/beyond-bollywood/static/js/main.3f6c8277.chunk.js.map",
+    "runtime-main.js": "/beyond-bollywood/static/js/runtime-main.ab9d8338.js",
+    "runtime-main.js.map": "/beyond-bollywood/static/js/runtime-main.ab9d8338.js.map",
+    "static/js/2.3a1982ca.chunk.js": "/beyond-bollywood/static/js/2.3a1982ca.chunk.js",
+    "static/js/2.3a1982ca.chunk.js.map": "/beyond-bollywood/static/js/2.3a1982ca.chunk.js.map",
+    "index.html": "/beyond-bollywood/index.html",
+    "static/css/main.31e4e424.chunk.css.map": "/beyond-bollywood/static/css/main.31e4e424.chunk.css.map",
+    "static/js/2.3a1982ca.chunk.js.LICENSE.txt": "/beyond-bollywood/static/js/2.3a1982ca.chunk.js.LICENSE.txt",
+    "static/media/background.jpg": "/beyond-bollywood/static/media/background.f6ef1ef8.jpg",
+    "static/media/pin-fu-shin-street.png": "/beyond-bollywood/static/media/pin-fu-shin-street.15239316.png",
+    "static/media/pin-green-hub.png": "/beyond-bollywood/static/media/pin-green-hub.2b72eb90.png",
+    "static/media/pin-hong-kong-railway-museum.png": "/beyond-bollywood/static/media/pin-hong-kong-railway-museum.1253066a.png",
+    "static/media/pin-kwong-fuk-bridge.png": "/beyond-bollywood/static/media/pin-kwong-fuk-bridge.6e89c82f.png",
+    "static/media/pin-man-mou-temple.png": "/beyond-bollywood/static/media/pin-man-mou-temple.c5eb27d1.png",
+    "static/media/pin-old-district-office.png": "/beyond-bollywood/static/media/pin-old-district-office.865e7776.png",
+    "static/media/pin-old-hostel.png": "/beyond-bollywood/static/media/pin-old-hostel.c62b35a0.png",
+    "static/media/pin-sam-man-tsai.png": "/beyond-bollywood/static/media/pin-sam-man-tsai.1d3a07ab.png",
+    "static/media/pin-shuen-wan-typhoon-shelter.png": "/beyond-bollywood/static/media/pin-shuen-wan-typhoon-shelter.5065c938.png",
+    "static/media/pin-tai-po-geoheritage-centre.png": "/beyond-bollywood/static/media/pin-tai-po-geoheritage-centre.b7e7b4ab.png",
+    "static/media/pin-the-lane-square-in-tai-po.png": "/beyond-bollywood/static/media/pin-the-lane-square-in-tai-po.5e20c389.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ab9d8338.js",
+    "static/js/2.3a1982ca.chunk.js",
+    "static/css/main.31e4e424.chunk.css",
+    "static/js/main.3f6c8277.chunk.js"
+  ]
+}
